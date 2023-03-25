@@ -14,8 +14,8 @@ const Navbar = () => {
     >
       <div className="container">
         <div className="navbar-brand">
-          <Link to="/" className="navbar-item" title="Logo">
-            <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+          <Link to="/" className="navbar-item" title="Hjem">
+            <img src={logo} alt="logo navigation bar" style={{ width: "88px" }} />
           </Link>
           {/* Hamburger menu */}
           <button
@@ -61,7 +61,7 @@ const Navbar = () => {
           <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
-              href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+              href="https://github.com/ultralandsholdet/web"
               target="_blank"
               rel="noopener noreferrer"
             >
