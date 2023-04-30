@@ -15,7 +15,7 @@ export const IndexPageTemplate = ({
   heading,
   subheading,
   mainpitch,
-  description,
+  descriptionb,
   intro,
 }) => {
   const heroImage = getImage(image) || image;
@@ -34,7 +34,10 @@ export const IndexPageTemplate = ({
                       <h1 className="title">{mainpitch.title}</h1>
                     </div>
                     <div className="tile">
-                      <h3 className="subtitle">{mainpitch.description}</h3>
+                      <h3 className="subtitle">
+                        {mainpitch.description}
+                        <Link to="https://www.iau-ultramarathon.org/">IAU</Link> {mainpitch.description2}
+                      </h3>
                     </div>
                   </div>
                   <div className="columns">
@@ -42,18 +45,29 @@ export const IndexPageTemplate = ({
                       <h3 className="has-text-weight-semibold is-size-2">
                         {heading}
                       </h3>
-                      <p>{description}</p>
+                      <p>Ultralandsholdets ledelse står for udtagelse af løbere til mesterskaberne og administrationen bag dem.  
+                        <p>
+                          Ledelsen består af 
+                          <ul>
+                            <li><Link to="https://www.facebook.com/soren.raarup/">Søren Raarup</Link> (Landstræner),</li>
+                            <li><Link to="https://www.facebook.com/pernille.l.christensen.5">Pernille Lykke Christensen</Link> (SoMe) og udvalg.
+                            </li>
+                          </ul>
+                        </p>
+                          Ultralandsholdet er organiseret under Dansk Atletik Forbund (
+                          <Link to="http://dansk-atletik.dk/">DAF</Link>).
+                      </p>
                     </div>
                   </div>
-                  <Features gridItems={intro.blurbs} />
-                  <div className="columns">
+                  {/* <Features gridItems={intro.blurbs} /> */}
+                  {/* <div className="columns">
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/products">
                         See all products
                       </Link>
                     </div>
-                  </div>
-                  <div className="column is-12">
+                  </div> */}
+                  {/* <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
                       Latest stories
                     </h3>
@@ -63,7 +77,7 @@ export const IndexPageTemplate = ({
                         Read more
                       </Link>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
@@ -80,10 +94,10 @@ IndexPageTemplate.propTypes = {
   heading: PropTypes.string,
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
-  description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
+  descriptionb: PropTypes.object,
+  // intro: PropTypes.shape({
+  //   blurbs: PropTypes.array,
+  // }),
 };
 
 const IndexPage = ({ data }) => {
@@ -97,7 +111,7 @@ const IndexPage = ({ data }) => {
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
-        description={frontmatter.description}
+        descriptionb={frontmatter.descriptionb}
         intro={frontmatter.intro}
       />
     </Layout>
@@ -129,8 +143,14 @@ export const pageQuery = graphql`
         mainpitch {
           title
           description
+          description2
         }
-        description
+        descriptionb {
+          desc1
+          desc2
+          desc3
+          desc4
+        }
         intro {
           blurbs {
             image {
