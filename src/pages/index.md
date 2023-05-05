@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Ultralandsholdet
-image: /img/home-jumbotron.jpg
+image: /img/ultralandsholder2022-jumbotron2.jpg
 heading: Ultralandsholdet
-subheading: Forbi horisonten og med pokaler tilbage igen
+subheading: 50 km, 100 km og 24 timer
 mainpitch:
   title: Hvad er det danske ultralandshold?
   description: >
