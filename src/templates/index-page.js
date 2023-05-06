@@ -34,10 +34,10 @@ export const IndexPageTemplate = ({
                       <h1 className="title">{mainpitch.title}</h1>
                     </div>
                     <div className="tile">
-                      <h3 className="subtitle">
+                      <p className="subtitle">
                         {mainpitch.description}
                         <Link to="https://www.iau-ultramarathon.org/">IAU</Link> {mainpitch.description2}
-                      </h3>
+                      </p>
                     </div>
                   </div>
                   <div className="columns">
