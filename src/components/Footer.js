@@ -25,7 +25,7 @@ const Footer = () => {
                   <ul className="menu-list">
                     <li>
                       <Link to="/" className="navbar-item">
-                        Home
+                        Hjem
                       </Link>
                     </li>
                     {/* <li>
@@ -50,7 +50,7 @@ const Footer = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        Admin
+                        Administrer
                       </a>
                     </li>
                   </ul>
