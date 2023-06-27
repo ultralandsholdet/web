@@ -34,9 +34,14 @@ const Navbar = () => {
                 re-write that makes this unneccesary.
              */}
             <li className="navbar-item" style={{padding: "0px"}}>
-            <Link className="navbar-item" to="/partners">
-              Partnere
-            </Link>
+              <Link className="navbar-item" to="/staevner2023">
+                Stævner
+              </Link>
+            </li>
+            <li className="navbar-item" style={{padding: "0px"}}>
+              <Link className="navbar-item" to="/partners">
+                Partnere
+              </Link>
             </li>
             {/* <li className="navbar-item" style={{padding: "0px"}}>
               <Link className="navbar-item" to="/about">
