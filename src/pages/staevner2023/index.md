@@ -28,7 +28,7 @@ Folk, inklusiv landsholdsløbere, der endnu ikke er [forhåndsudtagne](https://b
 ##
 ## Kvalifikationskrav
 
-Kan du allerede klare kvalifikationskarvane kan du komme direkte på landsholdet. Det sikrer dig dog ikke en plads til VM. 
+Kan du allerede klare kvalifikationskravene kan du komme direkte på landsholdet. Det sikrer dig dog ikke en plads til VM. 
 
 For at komme med til VM i 2023 skal du  udvælges. Der udvælges både blandt kvalificerede og folk, 
 * som ikke helt er der eller 
