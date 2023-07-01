@@ -36,7 +36,7 @@ export const IndexPageTemplate = ({
                     <div className="tile">
                       <p className="subtitle">
                         {mainpitch.description}
-                        <Link to="https://www.iau-ultramarathon.org/">IAU</Link> {mainpitch.description2}
+                        <Link to="https://www.iau-ultramarathon.org/iau-championships/">IAU</Link> {mainpitch.description2}
                       </p>
                     </div>
                   </div>

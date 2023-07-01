@@ -7,7 +7,7 @@ subheading: 50 km, 100 km og 24 timer
 mainpitch:
   title: Hvad er det danske ultralandshold?
   description: >
-    Ultralandsholdet er en samling løbere m/k, der deltager i internationale ultraløbs mesterskaber for Danmark i
+    Ultralandsholdet er løbere m/k, der deltager i internationale ultraløbs mesterskaber for Danmark i
   description2: 'regi i 3 discipliner: 50 km, 100 km og 24 timer.'
 descriptionb:
   desc1: x
