@@ -6,11 +6,7 @@ title: Stævner 2023
 ###
 
 ##
-## Gør som Wozniacki - kom til VM på et wildcard
-
-Wozniacki er på vej tilbage til tennis på et **wildcard**.  
-[![wildcard](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Caroline_Wozniacki_%2835449695422%29.jpg/330px-Caroline_Wozniacki_%2835449695422%29.jpg)](https://www.bt.dk/sport/us-open-og-montreal-bekraefter-wozniacki-faar-wildcard)  
-_Foto: Wikipedia_
+## Kom til VM på et wildcard
 
 Som noget nyt i 2023 har ultralandsholdet åbnet for **ansøgning til ultralandsholdet** og dets stævner.
 
@@ -37,7 +33,6 @@ For at komme med til VM i 2023 skal du  udvælges. Der udvælges både blandt kv
 De kan få en **wildcard** plads.
 
 For at få en **wildcard** plads rækker det med op til 20% ringere resultat eller at du på anden måde kan vise at du har talent.  
-Så **søg** endelig, hvis du har ambitioner. Du har alt at vinde og intet at tabe.  
 
 <a href="https://bit.ly/ul-kk" target="_blank" rel="noreferrer">
 <img src="../../img/staevner/KK-pub.png" alt="Kvalifikationskrav DK" style="background-image:none;"/>
@@ -48,7 +43,6 @@ Så **søg** endelig, hvis du har ambitioner. Du har alt at vinde og intet at ta
 <a href="https://forms.gle/hQN81PJ3EXc1LzKZ8" target="_blank" rel="noreferrer">
 <img src="../../img/staevner/Ansogning-til-Ultralandsholdet-2023-sm.png" alt="Ansøgning for 2023 QR" style="background-image:none"/>
 </a>
-Kom frisk - **ansøg** og se om du får en plads.
 
 ##
 ## Tidsfrister
