@@ -29,7 +29,7 @@ const Footer = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/staevner2023">
+                      <Link className="navbar-item" to="/staevner2024">
                         Stævner
                       </Link>
                     </li>

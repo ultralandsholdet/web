@@ -34,7 +34,7 @@ const Navbar = () => {
                 re-write that makes this unneccesary.
              */}
             <li className="navbar-item" style={{padding: "0px"}}>
-              <Link className="navbar-item" to="/staevner2023">
+              <Link className="navbar-item" to="/staevner2024">
                 Stævner
               </Link>
             </li>
