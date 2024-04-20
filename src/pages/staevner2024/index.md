@@ -73,7 +73,7 @@ Løbere på landsholdet skal overholde gældende [doping regler](https://www.ant
     * Tilmelder hold til stævne(r)
     * Slutafregner med DAF og løberne - inclusiv tilbagebetaling af travelgrants til løberne
 
-<img src="../../img/staevner/vm-wma-aabentlob.svg" alt="WMA og Åbent løb"/>
+<img src="../../img/staevner/vm-wma-aabentlob.drawio.svg" alt="WMA og Åbent løb"/>
 
 ##
 ## Åbent løb
