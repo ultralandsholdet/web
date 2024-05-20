@@ -44,8 +44,8 @@ Kravene i år er lempede, så der gives ikke rabat til wildcards.
 ## Tidsfrister
 
 Der er to perioder at søge i ⏰
-* P1: Indtil den **3. juni 2024**. Herefter laves forhåndsudtagelse.
-* P2: Indtil den **25. juli 2024**. Herefter laves endelig udtagelse.
+* P1: Indtil den **3. juni 2024**. Herefter laves forhåndsudtagelse (eksklusiv wildcards).
+* P2: Indtil den **25. juli 2024**. Herefter laves endelig udtagelse (inklusiv wildcards).
 
 Kvalificerer du dig i P1, er du 95% sikker på en plads på holdet.  
 Søger du i P2, er der risiko for, at GIS *1 udkommer i løbet af perioden, og at der dermed lukkes for ansøgning før P2 udløber💡  
