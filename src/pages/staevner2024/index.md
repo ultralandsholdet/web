@@ -85,7 +85,7 @@ Skulle en løber ikke blive accepteret på landsholdet har stævner ofte åbne l
 På landsholdet vil vi gøre så meget som muligt for at inkludere danske løbere fra åbne løb i landsholdteamet, så i kan bidrage til en samlet dansk teamånd. 
 Der er dog begrænsninger bl.a. i form af at depot for åbent løb ikke er delt med landsholdet.
 Ønsker i at delgage i åbent løb er i også velkomne i vores stævnegruppe og til at deltage i landsholdssamling.  
-Udnævnt til `Kaptajn for 100 km åbent løb og WMA` er [Henrik Hansen](https://www.facebook.com/henrik.hansen.52493). Han er bindeled til landsholdet. Det er en frivillig ubetalt opgave for at fremme den danske teamånd.  
+Udnævnt til `Kaptajn for 100 km åbent løb og WMA` er Henrik Hansen ([FB](https://www.facebook.com/henrik.hansen.52493) / [IG](https://www.instagram.com/mr_hansen_run)). Han er bindeled til landsholdet. Det er en frivillig ubetalt opgave for at fremme den danske teamånd.  
 
 Tilmelding og arrangering af deltagelse i åbne løb gøres af løberen selv.
 
