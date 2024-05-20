@@ -140,5 +140,7 @@ Bemærk:
 * Til VM er det ikke et krav at anskaffe sig sit eget landsholdstøj. Landsholdet udlåner det tøj, som løberne ikke selv tager med.
 * Løberen sælger ikke officielle løbe tights, så der gælder ovenstående udlån.
 * Landholdet udlåner ikke til Åbentløbs løbere (som så må være selvforsynende).
+* Købt Landsholdstøj skal være købt hos Løberen.
+* Der må ikke være ekstra tryk på landsholdstøj, så som navn eller logo.
 
 _Denne side er publiceret medio April 2024 og opdateret  medio Maj_
