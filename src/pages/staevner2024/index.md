@@ -123,8 +123,6 @@ Bemærk:
 * Løbere i WMA skal godkendes af DAF, så det kræver at du er [medlem af en DAF klub](https://connect.atletik.dk/Clubs) og at du enten fortæller i ansøgning til UltraLandsholdet/WMA at du måske vil løbe i WMA.  
 Alternativt kontakter du DAF direkte ([Inger Marie](https://dansk-atletik.dk/forbundet/kontakt-daf/#stabsfunktioner)), så du kan blive godkendt.
 
-Udnævnt til Kaptajn for Åbent løb og WMA er [Henrik Hansen](https://www.facebook.com/henrik.hansen.52493)
-
 ##
 ## Landsholdssamling
 
