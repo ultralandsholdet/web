@@ -136,7 +136,7 @@ Invitation sendes ud til løbere, der har søgt om deltagelse.
 
 [DAF](https://dansk-atletik.dk/nyheder/2024/05/bliv-godt-klaedt-paa-med-dafs-kollektion-hos-loeberen/) har gjort det muligt at købe sig eget landsholdstøj ved at lave en aftale med [Løberen](https://www.loberen.dk/daf).
 
-[![Køb DAF Landsholdstøj](../../img/staevner/LoberenDafToj.png.png)](https://www.loberen.dk/daf)
+[![Køb DAF Landsholdstøj](../../img/staevner/LoberenDafToj.png)](https://www.loberen.dk/daf)
 
 Bemærk:
 * Til VM er det ikke et krav at anskaffe sig sit eget landsholdstøj. Landsholdet udlåner det tøj, som løberne ikke selv tager med.
