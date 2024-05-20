@@ -44,8 +44,8 @@ Kravene i år er lempede, så der gives ikke rabat til wildcards.
 ## Tidsfrister
 
 Der er to perioder at søge i ⏰
-* P1: Indtil den **3. juni 2024**
-* P2: Indtil den **25. juli 2024**
+* P1: Indtil den **3. juni 2024**. Herefter laves forhåndsudtagelse.
+* P2: Indtil den **25. juli 2024**. Herefter laves endelig udtagelse.
 
 Kvalificerer du dig i P1, er du 95% sikker på en plads på holdet.  
 Søger du i P2, er der risiko for, at GIS *1 udkommer i løbet af perioden, og at der dermed lukkes for ansøgning før P2 udløber💡  
@@ -123,4 +123,24 @@ Bemærk:
 * Løbere i WMA skal godkendes af DAF, så det kræver at du er [medlem af en DAF klub](https://connect.atletik.dk/Clubs) og at du enten fortæller i ansøgning til UltraLandsholdet/WMA at du måske vil løbe i WMA.  
 Alternativt kontakter du DAF direkte ([Inger Marie](https://dansk-atletik.dk/forbundet/kontakt-daf/#stabsfunktioner)), så du kan blive godkendt.
 
-_Denne side er publiceret medio April 2024_
+Udnævnt til Kaptajn for Åbent løb og WMA er [Henrik Hansen](https://www.facebook.com/henrik.hansen.52493)
+
+##
+## Landsholdssamling
+
+I efteråret arrangerer landsholdet en samling i DK, så Landsholdsdeltagere, WMA og åbentløbsdeltagere har mulighed for at bygge en landsholdsånd op forud for VM.
+Invitation sendes ud til løbere, der har søgt om deltagelse.
+
+##
+## Landsholdstøj
+
+[DAF](https://dansk-atletik.dk/nyheder/2024/05/bliv-godt-klaedt-paa-med-dafs-kollektion-hos-loeberen/) har gjort det muligt at købe sig eget landsholdstøj ved at lave en aftale med [Løberen](https://www.loberen.dk/daf).
+
+[![Køb DAF Landsholdstøj](../../img/staevner/LoberenDafToj.png.png)](https://www.loberen.dk/daf)
+
+Bemærk:
+* Til VM er det ikke et krav at anskaffe sig sit eget landsholdstøj. Landsholdet udlåner det tøj, som løberne ikke selv tager med.
+* Løberen sælger ikke officielle løbe tights, så der gælder ovenstående udlån.
+* Landholdet udlåner ikke til Åbentløbs løbere (som så må være selvforsynende).
+
+_Denne side er publiceret medio April 2024 og opdateret  medio Maj_
