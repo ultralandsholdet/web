@@ -124,13 +124,13 @@ Bemærk:
 Alternativt kontakter du DAF direkte ([Inger Marie](https://dansk-atletik.dk/forbundet/kontakt-daf/#stabsfunktioner)), så du kan blive godkendt.
 
 ##
-## Landsholdssamling
+<h2 id="landsholdssamling">Landsholdssamling</h2>
 
 I efteråret arrangerer landsholdet en samling i DK, så Landsholdsdeltagere, WMA og åbentløbsdeltagere har mulighed for at bygge en landsholdsånd op forud for VM.
 Invitation sendes ud til løbere, der har søgt om deltagelse.
 
 ##
-## Landsholdstøj
+<h2 id="landsholdstoj">Landsholdstøj</h2>
 
 [DAF](https://dansk-atletik.dk/nyheder/2024/05/bliv-godt-klaedt-paa-med-dafs-kollektion-hos-loeberen/) har gjort det muligt at købe sig eget landsholdstøj ved at lave en aftale med [Løberen](https://www.loberen.dk/daf).
 

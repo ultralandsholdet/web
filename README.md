@@ -98,4 +98,11 @@ Links
 * https://www.gatsbyjs.com/plugins/gatsby-plugin-netlify-cms-paths/
 * https://www.gatsbyjs.com/docs/how-to/local-development/troubleshooting-common-errors/#field-image-must-not-have-a-selection-since-type-string-has-no-subfields
 
+
+#### Markdown
+
+Ikke alle features er med fra markdown. [HeadingIDs](https://www.markdownguide.org/extended-syntax/#heading-ids) må laves med `<h2 id="min-overskrift">Min Overskrift...`
+
+Måske er [MDX](https://www.gatsbyjs.com/docs/reference/markdown-syntax/#md-vs-mdx) understøttet, så man kan bruge react komponenter (jsx) indefra markdown. 
+
 .
