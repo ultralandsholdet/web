@@ -49,14 +49,14 @@ For at få en **wildcard** plads skal man kunne påvise at man har et niveau til
 ## Tidsfrister
 
 Der er to perioder at søge i ⏰
-* P1: Indtil den **21. april 2025** 🟢. Herefter laves forhåndsudtagelse (eksklusiv wildcards).
-* P2: Indtil den **16. juni 2025** 🟠. Herefter laves endelig udtagelse (inklusiv wildcards).
+* P1: Indtil den **28. april 2025** 🟢. Herefter laves forhåndsudtagelse (eksklusiv wildcards).
+* P2: Indtil den **30. juni 2025** 🟠. Herefter laves endelig udtagelse (inklusiv wildcards).
 
 Kvalificerer du dig i P1, er du 95% sikker på en plads på holdet 😊.  
-Søger du i P2, er der risiko for, at GIS *1 udkommer i løbet af perioden, og at der dermed lukkes for ansøgning ☹️ før P2 udløber💡  
+Søger du i P2, er der chance for, at GIS *1 udkommer i løbet af perioden, og at der bliver risiko for at der lukkes for ansøgning ☹️ før P2 udløber💡  
 Søg derfor helst kun i P2 hvis du glemte at søge i P1 eller forbedrer dig i P2.
 
-*1 GIS er invitation inkl. tilmelding fra IAU til landsholdene.
+*1 GIS er invitation inkl. tilmelding fra IAU til landsholdene. Den indeholder deadlines, som bestemmer landsholdets deadlines.
 
 [![Stævnetider for 2025](../../img/staevner/SP-pub-2025.png)](https://bit.ly/ul-sp2)
 
@@ -76,7 +76,7 @@ Løbere på landsholdet skal overholde gældende [doping regler](https://www.ant
     * Køber rejse til stævne
 * Landsholdet:
     * Tilmelder hold til stævne(r)
-    * Slutafregner med DAF og løberne - inclusiv tilbagebetaling af travelgrants til løberne
+    * Slutafregner med DAF og løberne - inklusiv tilbagebetaling af travelgrants til løberne
 
 <img src="../../img/staevner/vm-wma-aabentlob.drawio.svg" alt="WMA og Åbent løb"/>
 
@@ -90,7 +90,7 @@ Skulle en løber ikke blive accepteret på landsholdet har stævner ofte åbne l
 På landsholdet vil vi gøre så meget som muligt for at inkludere danske løbere fra åbne løb i landsholdteamet, så i kan bidrage til en samlet dansk teamånd. 
 Der er dog begrænsninger bl.a. i form af at depot for åbent løb ikke er delt med landsholdet.
 Ønsker i at deltage i åbent løb er i også velkomne i vores stævnegruppe og til at deltage i landsholdssamling.  
-Som sidste udnævner vi en `Kaptajn for 24 timer åbent løb og WMA`, som er bindeled til landsholdet. Det er en frivillig ubetalt opgave for at fremme den danske teamånd.  
+Som sidste søger vi en `Kaptajn for 24 timer åbent løb og WMA`, som er bindeled til landsholdet. Det er en frivillig ubetalt opgave for at fremme den danske teamånd.  
 
 Tilmelding og arrangering af deltagelse i åbne løb gøres af løberen selv.
 
@@ -134,6 +134,7 @@ Alternativt kontakter du DAF direkte ([Inger Marie](https://dansk-atletik.dk/for
 
 Før VM arrangerer landsholdet en samling i DK, så Landsholdsdeltagere, WMA og åbentløbsdeltagere har mulighed for at bygge en landsholdsånd op forud for VM.
 Invitation sendes ud til løbere, der har søgt om deltagelse.
+I år løber samlingen af stablen **d. 16 August**.
 
 ##
 <h2 id="landsholdstoj">Landsholdstøj</h2>
