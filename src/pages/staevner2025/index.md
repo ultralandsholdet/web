@@ -48,13 +48,13 @@ For at få en **wildcard** plads skal man kunne påvise at man har et niveau til
 ##
 ## Tidsfrister
 
-Der er to perioder at søge i ⏰
-* P1: Indtil den **28. april 2025** 🟢. Herefter laves forhåndsudtagelse (eksklusiv wildcards).
-* P2: Indtil den **30. juni 2025** 🟠. Herefter laves endelig udtagelse (inklusiv wildcards).
+Der er to dealines at søge inden ⏰
+* D1: Indtil den **28. april 2025** 🟢. Herefter laves forhåndsudtagelse (eksklusiv wildcards).
+* D2: Indtil den **30. juni 2025** 🟠. Herefter laves endelig udtagelse (inklusiv wildcards).
 
-Kvalificerer du dig i P1, er du 95% sikker på en plads på holdet 😊.  
-Søger du i P2, er der chance for, at GIS *1 udkommer i løbet af perioden, og at der bliver risiko for at der lukkes for ansøgning ☹️ før P2 udløber💡  
-Søg derfor helst kun i P2 hvis du glemte at søge i P1 eller forbedrer dig i P2.
+Kvalificerer du dig inden D1, er du 95% sikker på en plads på holdet 😊.  
+Søger du inden D2, er der chance for, at GIS *1 udkommer i løbet af perioden, og at der bliver en lille risiko for at der lukkes for ansøgning ☹️ før D2💡  
+Søg derfor helst kun inden D2 hvis du glemte at søge inden D1 eller forbedrer dig i D2.
 
 *1 GIS er invitation inkl. tilmelding fra IAU til landsholdene. Den indeholder deadlines, som bestemmer landsholdets deadlines.
 
