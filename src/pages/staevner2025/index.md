@@ -10,9 +10,10 @@ title: Stævner 2025
 
 Ligesom i 2024 har ultralandsholdet åbnet for **ansøgning til ultralandsholdets stævner**.
 
-I 2025 rejser landsholdet til et stævne
+I 2025 rejser landsholdet til to stævner
 
 * **[VM 24 timer](https://iau-ultramarathon.org/2025-iau-24-hour-world-championship-announcement.html) i Albi i Frankrig 🇫🇷 d. 18 oktober**.  
+* **[VM 50 km](https://iau-ultramarathon.org/india-to-host-the-2025-iau-50-km-world-championship.html) i New Delhi i Indien d. 7 december**.  
 
 Løbere har mulighed for at få en **wildcard** plads. Det vil sige at vi kan sende folk til mesterskab, som endnu ikke har kvalificeret sig.
 
@@ -48,13 +49,16 @@ For at få en **wildcard** plads skal man kunne påvise at man har et niveau til
 ##
 ## Tidsfrister
 
-Der er to dealines at søge inden ⏰
+Der er to dealines for VM 24 timer at søge inden ⏰
 * D1: Indtil den **28. april 2025** 🟢. Herefter laves forhåndsudtagelse (eksklusiv wildcards).
 * D2: Indtil den **30. juni 2025** 🟠. Herefter laves endelig udtagelse (inklusiv wildcards).
 
 Kvalificerer du dig inden D1, er du 95% sikker på en plads på holdet 😊.  
 Søger du inden D2, er der chance for, at GIS *1 udkommer i løbet af perioden, og at der bliver en lille risiko for at der lukkes for ansøgning ☹️ før D2💡  
 Søg derfor helst kun inden D2 hvis du glemte at søge inden D1 eller forbedrer dig i D2.
+
+Der er en dealine for VM 50 km at søge inden ⏰
+* D1: Indtil den **25. juli 2025** 🟠. Herefter laves endelig udtagelse (inklusiv wildcards).
 
 *1 GIS er invitation inkl. tilmelding fra IAU til landsholdene. Den indeholder deadlines, som bestemmer landsholdets deadlines.
 
@@ -86,6 +90,7 @@ Løbere på landsholdet skal overholde gældende [doping regler](https://www.ant
 Skulle en løber ikke blive accepteret på landsholdet har stævner ofte åbne løb, som løberen kan deltage i:
 
 * [24 timer åben](https://www.albi24h.fr/)
+* 50 km åben: Link til ansøgning kendes endnu ikke (her i primo juni)
 
 På landsholdet vil vi gøre så meget som muligt for at inkludere danske løbere fra åbne løb i landsholdteamet, så i kan bidrage til en samlet dansk teamånd. 
 Der er dog begrænsninger bl.a. i form af at depot for åbent løb ikke er delt med landsholdet.
@@ -103,7 +108,8 @@ Bemærk:
 
 Er man tilmeldt stævne enten som udtaget til Ultralandsholdet eller via det åbne løb har man også mulighed for at deltage i **[WMA](https://world-masters-athletics.org/championships/)** mesterskab - aldersklasse verdensmesterskabet.  
 
-* 24 timer WMA: Link til ansøgning kendes endnu ikke (her i midt februar)
+* 24 timer WMA: Link til ansøgning kendes endnu ikke (her i primo juni)
+* [50 km WMA](https://world-masters-athletics.org/championships/2025-iau-50k-world-championship/)
 
 Alle i det åbne løb er velkomne til også at deltage i WMA, hvis i er gamle nok (35+).
 
@@ -134,7 +140,7 @@ Alternativt kontakter du DAF direkte ([Inger Marie](https://dansk-atletik.dk/for
 
 Før VM arrangerer landsholdet en samling i DK, så Landsholdsdeltagere, WMA og åbentløbsdeltagere har mulighed for at bygge en landsholdsånd op forud for VM.
 Invitation sendes ud til løbere, der har søgt om deltagelse.
-I år løber samlingen af stablen **d. 16 August**.
+I år løber samlingen af stablen **d. 20 September** således at både 50 km og 24 timer stævne løbere kan være med.
 
 ##
 <h2 id="landsholdstoj">Landsholdstøj</h2>
@@ -150,4 +156,4 @@ Bemærk:
 * Købt Landsholdstøj skal være købt hos Løberen.
 * Der må ikke være ekstra tryk på landsholdstøj, så som navn eller logo.
 
-_Denne side er publiceret medio Februar 2025_
+_Denne side er opdateret primo Juni 2025_
