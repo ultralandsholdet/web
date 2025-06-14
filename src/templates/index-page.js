@@ -72,6 +72,53 @@ export const IndexPageTemplate = ({
                     <div>
                       <p className="title">{heading}</p>
                       <p>Ultralandsholdets ledelse står for udtagelse af løbere til mesterskaberne og administrationen bag dem.</p>                      
+
+                      <p className="subtitle">Jeg vil også gerne med ultralandsholdet til VM eller EM. Hvordan kommer jeg lige det?</p>
+                      <p>Du kvalificerer dig til stævnet ved at løbe en kvalificerende tid/distance. 
+                        <br/>Derefter søger du om at komme med via <Link to="staevner2025">stævnesiden</Link>, hvor du også finder mere om kvalifikationskrav.</p>
+
+                      <p className="subtitle">Hvem er gode nok til VM?</p>
+                      <p>50 km: Du finder dem på
+                        <ul>
+                          <li>Statletik Marathon: <Link to="https://www.statletik.eu/db/yearden.php?Gren=200&gender=1&top=50">M</Link>, <Link to="https://www.statletik.eu/db/yearden.php?Gren=200&gender=2&top=50">K</Link></li>
+                          <li>DUV 50 km: <Link to="https://statistik.d-u-v.org/getintbestlist.php?year=all&dist=50km&gender=M&nat=DEN">M</Link>, <Link to="https://statistik.d-u-v.org/getintbestlist.php?year=all&dist=50km&gender=W&nat=DEN">K</Link></li>
+                        </ul> 
+                      </p>
+                      <p>100 km: Du finder dem på
+                        <ul>
+                          <li>DUV 6 timer: <Link to="https://statistik.d-u-v.org/getintbestlist.php?year=all&dist=6h&gender=M&nat=DEN">M</Link>, <Link to="https://statistik.d-u-v.org/getintbestlist.php?year=all&dist=6h&gender=W&nat=DEN">K</Link></li>
+                          <li>DUV 100 km: <Link to="https://statistik.d-u-v.org/getintbestlist.php?year=all&dist=100km&gender=M&nat=DEN">M</Link>, <Link to="https://statistik.d-u-v.org/getintbestlist.php?year=all&dist=100km&gender=W&nat=DEN">K</Link></li>
+                        </ul> 
+                      </p>
+                      <p>24 timer: Du finder dem på
+                        <ul>
+                          <li>DUV 24 timer: <Link to="https://statistik.d-u-v.org/getintbestlist.php?year=all&dist=24h&gender=M&nat=DEN">M</Link>, <Link to="https://statistik.d-u-v.org/getintbestlist.php?year=all&dist=24h&gender=W&nat=DEN">K</Link></li>
+                        </ul> 
+                      </p>
+
+                      <p className="subtitle">Hvordan kan jeg blive lige så god?</p>
+                      <p>Meld dig ind i en klub, hvor de gode i dit område løber og deltag i de løb de løber. Find dem i listerne her over.
+                        <br/>Hvis du fokuserer på 50 km skal du være hurtig
+                        <br/>Hvis du fokuserer på 24 timer skal du være udholdende - både fysisk og mentalt
+                        <br/>Hvis du fokuserer på 100 km skal du både være hurtig og udholdende
+                      </p>
+
+                      <p className="subtitle">Hvilket program/træner bør jeg følge/få?</p>
+                      <p>Til 50 km følg/få et/en marathon program/træner
+                        <br/>Til 24 timer følg/få et/en ultra program/træner
+                      </p>
+
+                      <p className="subtitle">Hvor finder jeg ultraløb, når jeg skal teste eller kvalificere mig?</p>
+                      <ul>
+                        <li><Link to="https://ultralob.dk/">Danske løb</Link></li>
+                        <li><Link to="https://statistik.d-u-v.org/calendar.php">Udenlandske løb</Link></li>
+                      </ul>
+                      <p>I begge tilfælde kik efter flade løb (modsat bjerg/trail) eller se hvilke løb de hurtige har løbet.</p>
+
+                      <p className="subtitle">Er jeg gammel nok eller for gammel til landsholdet?</p>
+                      <p>I Sverige har de en ultra elite løber, der startede med ultra da han var 17 år og kom på landsholdet få år efter.
+                        <br/>Her i Danmark har vi haft en løber på 56 år på landsholdet.
+                      </p>
                     </div>
                   </div>
 
@@ -81,6 +128,9 @@ export const IndexPageTemplate = ({
                       <p className="subtitle">Hvorfor er 48 timer og 6 dage ikke under IAU?</p>
                       <p>Det er nok bare et spørgsmål om efterspørgsel. Gomu gør arbejdet inden da. <br></br>
                         Når det sker at IAU overtager, så kommer diciplinerne også under DAF, da IAU er under <Link to="https://worldathletics.org/">WA</Link>, som varetages af DAF i Danmark</p>
+                      <p></p>
+                      <p>Fusioneres Multidagslandsholdet så med Ultralandsholdet?</p>
+                      <p>Næppe - det er arbejdsbyrden for stor til, men det bliver også en del af (eller delegeres af) DAF på samme måde som Trail blev det.</p>
                     </div>
                   </div>
 
