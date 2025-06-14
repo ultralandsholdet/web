@@ -33,6 +33,7 @@ export const IndexPageTemplate = ({
                   <div className="tile">
                     <div>
                       <h1 className="title">{mainpitch.title}</h1>
+                      <p>Ultralandsholdet er et af tre danske ultralandshold - landshold i discipliner længere end marathon.</p>
                       <p>
                         <ul>
                           <li><Link to="https://www.facebook.com/ultralandsholdet"><b>Ultralandsholdet</b></Link>
@@ -71,6 +72,15 @@ export const IndexPageTemplate = ({
                     <div>
                       <p className="title">{heading}</p>
                       <p>Ultralandsholdets ledelse står for udtagelse af løbere til mesterskaberne og administrationen bag dem.</p>                      
+                    </div>
+                  </div>
+
+                  <p></p> 
+                  <div className="tile">
+                    <div>
+                      <p className="subtitle">Hvorfor er 48 timer og 6 dage ikke under IAU?</p>
+                      <p>Det er nok bare et spørgsmål om efterspørgsel. Gomu gør arbejdet inden da. <br></br>
+                        Når det sker at IAU overtager, så kommer diciplinerne også under DAF, da IAU er under <Link to="https://worldathletics.org/">WA</Link>, som varetages af DAF i Danmark</p>
                     </div>
                   </div>
 
