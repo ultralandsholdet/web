@@ -29,36 +29,51 @@ export const IndexPageTemplate = ({
             <div className="columns">
               <div className="column is-10 is-offset-1">
                 <div className="content">
-                  <div className="content">
-                    <div className="tile">
+
+                  <div className="tile">
+                    <div>
                       <h1 className="title">{mainpitch.title}</h1>
-                    </div>
-                    <div className="tile">
-                      <p className="subtitle">
-                        {mainpitch.description}
-                        <Link to="https://www.iau-ultramarathon.org/iau-championships/">IAU</Link> {mainpitch.description2}
+                      <p>
+                        <ul>
+                          <li><Link to="https://www.facebook.com/ultralandsholdet"><b>Ultralandsholdet</b></Link>
+                            <p>
+                              Deltager i <Link to="https://iau-ultramarathon.org/iau-championships">IAU</Link> mesterskaber - 50 km, 100 km og 24 timer under <Link to="https://dansk-atletik.dk/atleter/ultraloeb/">DAF</Link>. Landstræner: <Link to="https://www.facebook.com/soren.raarup">Søren Raarup</Link>
+                            </p> 
+                          </li>
+                        </ul>
                       </p>
                     </div>
                   </div>
-                  <div className="columns">
-                    <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
-                        {heading}
-                      </h3>
-                      <p>Ultralandsholdets ledelse står for udtagelse af løbere til mesterskaberne og administrationen bag dem.  
-                        <p>
-                          Ledelsen består af 
-                          <ul>
-                            <li><Link to="https://www.facebook.com/soren.raarup/">Søren Raarup</Link> (Landstræner),</li>
-                            <li><Link to="https://www.facebook.com/pernille.l.christensen.5">Pernille Lykke Christensen</Link> (SoMe) og udvalg.
-                            </li>
-                          </ul>
-                        </p>
-                          Ultralandsholdet er organiseret under Dansk Atletik Forbund (
-                          <Link to="http://dansk-atletik.dk/">DAF</Link>).
+
+                  <p></p> 
+                  <div className="tile">
+                    <div>
+                      <p className="subtitle">Andre danske ultralandshold</p>
+                      <p>
+                        <ul>
+                          <li><Link to="https://www.facebook.com/traillandsholdet"><b>Traillandsholdet</b></Link>
+                            <p>
+                              Deltager i <Link to="https://iau-ultramarathon.org/d-trail.html">IAU Trail- og bjerg</Link> mesterskaber under <Link to="https://dansk-atletik.dk/atleter/trail-og-bjergloeb/">DAF</Link>. Landstræner: <Link to="https://www.facebook.com/sr.lobecoach">Søren Rasmussen</Link>
+                            </p> 
+                          </li>
+                          <li><Link to="https://www.facebook.com/profile.php?id=61550677787724"><b>Multidagslandsholdet</b></Link>
+                            <p>
+                              Deltager i <Link to="https://www.gomu.org">Gomu</Link> mesterskaber - 48 timer og 6 dage. Landstræner: <Link to="https://www.facebook.com/jesperkennolsen">Jesper Kenn Olsen</Link>
+                            </p>
+                          </li>
+                        </ul>
                       </p>
                     </div>
                   </div>
+
+                  <p></p> 
+                  <div className="tile">
+                    <div>
+                      <p className="title">{heading}</p>
+                      <p>Ultralandsholdets ledelse står for udtagelse af løbere til mesterskaberne og administrationen bag dem.</p>                      
+                    </div>
+                  </div>
+
                   {/* <Features gridItems={intro.blurbs} /> */}
                   {/* <div className="columns">
                     <div className="column is-12 has-text-centered">
@@ -78,6 +93,7 @@ export const IndexPageTemplate = ({
                       </Link>
                     </div>
                   </div> */}
+
                 </div>
               </div>
             </div>
