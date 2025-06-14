@@ -75,7 +75,15 @@ export const IndexPageTemplate = ({
 
                       <p className="subtitle">Jeg vil også gerne med ultralandsholdet til VM eller EM. Hvordan kommer jeg lige det?</p>
                       <p>Du kvalificerer dig til stævnet ved at løbe en kvalificerende tid/distance. 
-                        <br/>Derefter søger du om at komme med via <Link to="staevner2025">stævnesiden</Link>, hvor du også finder mere om kvalifikationskrav.</p>
+                        <br/>Derefter søger du om at komme med via <Link to="staevner2025">stævnesiden</Link>, hvor du også finder mere om kvalifikationskrav.
+                      </p>
+
+                      <p className="subtitle">Hvornår afholdes VM og EM?</p>
+                      <p>Tommelfingerregel:
+                        <br/>VM 100 km i lige år. EM ulige år.
+                        <br/>VM 50 km og 24 timer i ulige år. EM lige år. 
+                        <br/>Det er en fordel at blive kvalificeret året før VM, da det giver ro på træningen i VM året og da der ikke er mange løb at kvalificere sig i.
+                      </p>
 
                       <p className="subtitle">Hvem er gode nok til VM?</p>
                       <p>50 km: Du finder dem på
