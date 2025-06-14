@@ -140,7 +140,7 @@ Alternativt kontakter du DAF direkte ([Inger Marie](https://dansk-atletik.dk/for
 
 Før VM arrangerer landsholdet en samling i DK, så Landsholdsdeltagere, WMA og åbentløbsdeltagere har mulighed for at bygge en landsholdsånd op forud for VM.
 Invitation sendes ud til løbere, der har søgt om deltagelse.
-I år løber samlingen af stablen **d. 20 September** således at både 50 km og 24 timer stævne løbere kan være med.
+I år løber samlingen af stablen **d. 27 September** således at både 50 km og 24 timer stævne løbere kan være med.
 
 ##
 <h2 id="landsholdstoj">Landsholdstøj</h2>
