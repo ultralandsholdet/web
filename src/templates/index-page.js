@@ -104,6 +104,12 @@ export const IndexPageTemplate = ({
                         </ul> 
                       </p>
 
+                    </div>
+                  </div>
+
+                  <p></p> 
+                  <div className="tile">
+                    <div>
                       <p className="subtitle">Hvordan kan jeg blive lige så god?</p>
                       <p>Meld dig ind i en klub, hvor de gode i dit område løber og deltag i de løb de løber. Find dem i listerne her over.
                         <br/>Hvis du fokuserer på 50 km skal du være hurtig
@@ -127,6 +133,12 @@ export const IndexPageTemplate = ({
                       <p>I Sverige har de en ultra elite løber, der startede med ultra da han var 17 år og kom på landsholdet få år efter.
                         <br/>Her i Danmark har vi haft en løber på 56 år på landsholdet.
                       </p>
+                    </div>
+                  </div>
+
+                  <p></p> 
+                  <div className="tile">
+                    <div>
                     </div>
                   </div>
 
