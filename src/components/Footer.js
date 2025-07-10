@@ -33,11 +33,6 @@ const Footer = () => {
                         Stævner
                       </Link>
                     </li>
-                    <li>
-                      <Link className="navbar-item" to="/partners">
-                        Partnere
-                      </Link>
-                    </li>
                     {/* <li>
                       <Link className="navbar-item" to="/about">
                         About
@@ -68,8 +63,18 @@ const Footer = () => {
               </div>
               <div className="column is-4">
                 <section>
-                  {/* <ul className="menu-list">
+                  <ul className="menu-list">
                     <li>
+                      <Link className="navbar-item" to="/charityrace2025">
+                        Mød og støt os
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/partners">
+                        Partnere
+                      </Link>
+                    </li>
+                    {/* <li>
                       <Link className="navbar-item" to="/blog">
                         Latest Stories
                       </Link>
@@ -78,8 +83,8 @@ const Footer = () => {
                       <Link className="navbar-item" to="/contact">
                         Contact
                       </Link>
-                    </li>
-                  </ul> */}
+                    </li> */}
+                  </ul>
                 </section>
               </div>
               <div className="column is-4 social">

@@ -39,6 +39,11 @@ const Navbar = () => {
               </Link>
             </li>
             <li className="navbar-item" style={{padding: "0px"}}>
+              <Link className="navbar-item" to="/charityrace2025">
+                Mød og støt os
+              </Link>
+            </li>
+            <li className="navbar-item" style={{padding: "0px"}}>
               <Link className="navbar-item" to="/partners">
                 Partnere
               </Link>
