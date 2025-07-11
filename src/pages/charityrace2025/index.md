@@ -30,7 +30,7 @@ Du er dermed med til at give medaljehåb til VM, ved at få det danske niveau ø
 * Parkering: [Torstedvej 4-8, 6990 Ulfborg](https://maps.app.goo.gl/JP2Br91zumLsy3Cg7)
 * Tilmelding: **https://my.raceresult.com/350937/**
 
-Spred budskabet ved at trykke `interesseret` eller `kommer` inde på **eventen - _kommer snart..._**
+Spred budskabet ved at trykke `interesseret` eller `kommer` inde på Facebook eventen **https://www.facebook.com/events/1373589700400029/**
 
 ## Resultater
 
