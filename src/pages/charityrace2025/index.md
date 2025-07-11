@@ -11,7 +11,7 @@ title: Ultralandsholdets Charity Race 2025
 Sæt kryds i kalenderen **lørdag d. 27 september 2025 kl 15**  
 
 Ultralandsholdet afholder **½ marathon løb**  
-Her kan du komme til at løbe med landsholdsløberne.  
+Her kan du komme ud og løbe med landsholdsløberne.  
 Al overskud går ubeskåret til de løbere, der rejser til VM i 2025.  
 
 Vi samler ind til de løbere, der skal til [VM 50 km i Indien og VM 24 timer i Frankrig i 2025](../staevner2025/).  
@@ -28,7 +28,7 @@ Du er dermed med til at give medaljehåb til VM, ved at få det danske niveau ø
 * Regler: [Klub 100 ½ marathon](https://danskhalvmarathonklub.dk/dhk-regler) regler følges.
 * Adresse: Torstedvej 4, 6990 Ulfborg
 * Parkering: [Torstedvej 4-8, 6990 Ulfborg](https://maps.app.goo.gl/JP2Br91zumLsy3Cg7)
-* Tilmelding: **_Kommer snart..._**
+* Tilmelding: **https://my.raceresult.com/350937/**
 
 Spred budskabet ved at trykke `interesseret` eller `kommer` inde på **eventen - _kommer snart..._**
 
