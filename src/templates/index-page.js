@@ -52,15 +52,20 @@ export const IndexPageTemplate = ({
                       <p className="subtitle">Andre danske ultralandshold</p>
                       <p>
                         <ul>
-                          <li><Link to="https://www.facebook.com/traillandsholdet"><b>Traillandsholdet</b></Link>
-                            <p>
-                              Deltager i <Link to="https://iau-ultramarathon.org/d-trail.html">IAU Trail- og bjerg</Link> mesterskaber under <Link to="https://dansk-atletik.dk/atleter/trail-og-bjergloeb/">DAF</Link>. Landstræner: <Link to="https://www.facebook.com/sr.lobecoach">Søren Rasmussen</Link>
-                            </p> 
-                          </li>
                           <li><Link to="https://www.facebook.com/profile.php?id=61550677787724"><b>Multidagslandsholdet</b></Link>
                             <p>
                               Deltager i <Link to="https://www.gomu.org">Gomu</Link> mesterskaber - 48 timer og 6 dage. Landstræner: <Link to="https://www.facebook.com/jesperkennolsen">Jesper Kenn Olsen</Link>
                             </p>
+                          </li>
+                          <li><Link to="https://www.backyardultra.dk/tennessee/"><b>BYU landsholdet</b></Link>
+                            <p>
+                              Deltager i <Link to="https://bigsbackyardultra.com/races/big-dogs-backyard-ultra-individual-world-championships/">Big Dog’s Backyard Ultra</Link> Individual World Championships under <Link to="https://www.backyardultra.dk/">Backyard Ultra Danmark</Link>. Teamlead: <Link to="https://www.facebook.com/KlingenbergMorten">Morten Klingenberg</Link>
+                            </p>
+                          </li>
+                          <li><Link to="https://www.facebook.com/traillandsholdet"><b>Traillandsholdet</b></Link>
+                            <p>
+                              Deltager i <Link to="https://iau-ultramarathon.org/d-trail.html">IAU Trail- og bjerg</Link> mesterskaber (varetaget af WMRA og iTra) under <Link to="https://dansk-atletik.dk/atleter/trail-og-bjergloeb/">DAF</Link>. Landstræner: <Link to="https://www.facebook.com/sr.lobecoach">Søren Rasmussen</Link>
+                            </p> 
                           </li>
                         </ul>
                       </p>
@@ -146,11 +151,19 @@ export const IndexPageTemplate = ({
                   <div className="tile">
                     <div>
                       <p className="subtitle">Hvorfor er 48 timer og 6 dage ikke under IAU?</p>
-                      <p>Det er nok bare et spørgsmål om efterspørgsel. Gomu gør arbejdet inden da. <br></br>
-                        Når det sker at IAU overtager, så kommer diciplinerne også under DAF, da IAU er under <Link to="https://worldathletics.org/">WA</Link>, som varetages af DAF i Danmark</p>
+                      <p>
+                        Det er nok bare et spørgsmål om efterspørgsel. Gomu gør arbejdet inden da. <br></br>
+                        Måske delegerer IAU så arbejdet til Gomu.<br></br>
+                        Hvis det sker at IAU overtager, så kommer diciplinerne også under DAF, da IAU er under <Link to="https://worldathletics.org/">WA</Link>, som varetages af DAF i Danmark</p>
                       <p></p>
                       <p>Fusioneres Multidagslandsholdet så med Ultralandsholdet?</p>
                       <p>Næppe - det er arbejdsbyrden for stor til, men det bliver også en del af (eller delegeres af) DAF på samme måde som Trail blev det.</p>
+                    </div>
+                  </div>
+                  <div className="tile">
+                    <div>
+                      <p className="subtitle">Hvorfor er BYU ikke under IAU?</p>
+                      <p>BYU er et privat initiativ, der selv har defineret reglerne i modsætning til regler fra foreksempel<Link to="https://worldathletics.org/">WA</Link> </p>
                     </div>
                   </div>
 
