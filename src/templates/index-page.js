@@ -163,7 +163,7 @@ export const IndexPageTemplate = ({
                   <div className="tile">
                     <div>
                       <p className="subtitle">Hvorfor er BYU ikke under IAU?</p>
-                      <p>BYU er et privat initiativ, der selv har defineret reglerne i modsætning til regler fra foreksempel<Link to="https://worldathletics.org/">WA</Link> </p>
+                      <p>BYU er et privat initiativ, der selv har defineret regler i modsætning til regler fra for eksempel <Link to="https://worldathletics.org/">WA</Link> </p>
                     </div>
                   </div>
 
