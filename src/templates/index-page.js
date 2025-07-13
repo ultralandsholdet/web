@@ -59,7 +59,7 @@ export const IndexPageTemplate = ({
                           </li>
                           <li><Link to="https://www.backyardultra.dk/tennessee/"><b>Backyard Ultra landsholdet</b></Link>
                             <p>
-                              Deltager i <Link to="https://bigsbackyardultra.com/races/big-dogs-backyard-ultra-individual-world-championships/">Big Dog’s Backyard Ultra</Link> Individual World Championships under <Link to="https://www.backyardultra.dk/">Backyard Ultra Danmark</Link>. Team Manager: <Link to="https://www.facebook.com/KlingenbergMorten">Morten Klingenberg</Link>
+                              Deltager i semifinalen til <Link to="https://bigsbackyardultra.com/races/big-dogs-backyard-ultra-individual-world-championships/">Big Dog’s Backyard Ultra</Link> Individual World Championships under <Link to="https://www.backyardultra.dk/">Backyard Ultra Danmark</Link>. Team Manager: <Link to="https://www.facebook.com/KlingenbergMorten">Morten Klingenberg</Link>
                             </p>
                           </li>
                           <li><Link to="https://www.facebook.com/traillandsholdet"><b>Traillandsholdet</b></Link>
