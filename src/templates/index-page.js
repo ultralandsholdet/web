@@ -57,9 +57,9 @@ export const IndexPageTemplate = ({
                               Deltager i <Link to="https://www.gomu.org">Gomu</Link> mesterskaber - 48 timer og 6 dage. Landstræner: <Link to="https://www.facebook.com/jesperkennolsen">Jesper Kenn Olsen</Link>
                             </p>
                           </li>
-                          <li><Link to="https://www.backyardultra.dk/tennessee/"><b>BYU landsholdet</b></Link>
+                          <li><Link to="https://www.backyardultra.dk/tennessee/"><b>Backyard Ultra landsholdet</b></Link>
                             <p>
-                              Deltager i <Link to="https://bigsbackyardultra.com/races/big-dogs-backyard-ultra-individual-world-championships/">Big Dog’s Backyard Ultra</Link> Individual World Championships under <Link to="https://www.backyardultra.dk/">Backyard Ultra Danmark</Link>. Teamlead: <Link to="https://www.facebook.com/KlingenbergMorten">Morten Klingenberg</Link>
+                              Deltager i <Link to="https://bigsbackyardultra.com/races/big-dogs-backyard-ultra-individual-world-championships/">Big Dog’s Backyard Ultra</Link> Individual World Championships under <Link to="https://www.backyardultra.dk/">Backyard Ultra Danmark</Link>. Team Manager: <Link to="https://www.facebook.com/KlingenbergMorten">Morten Klingenberg</Link>
                             </p>
                           </li>
                           <li><Link to="https://www.facebook.com/traillandsholdet"><b>Traillandsholdet</b></Link>
