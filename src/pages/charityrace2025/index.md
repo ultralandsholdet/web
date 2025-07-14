@@ -28,7 +28,7 @@ Du er dermed med til at give medaljehåb til VM, ved at få det danske niveau ø
 * Regler: [Klub 100 ½ marathon](https://danskhalvmarathonklub.dk/dhk-regler) regler følges.
 * Adresse: Torstedvej 4, 6990 Ulfborg
 * Parkering: [Torstedvej 4-8, 6990 Ulfborg](https://maps.app.goo.gl/JP2Br91zumLsy3Cg7)
-* Tilmelding: **https://my.raceresult.com/350937/**
+* Tilmelding: **https://my.raceresult.com/351242/**
 
 Spred budskabet ved at trykke `interesseret` eller `kommer` inde på Facebook eventen **https://www.facebook.com/events/1373589700400029/**
 
