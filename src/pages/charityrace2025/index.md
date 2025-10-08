@@ -36,7 +36,8 @@ Spred budskabet ved at trykke `interesseret` eller `kommer` inde på Facebook ev
 
 ## Resultater
 
-_Kommer efter løbet her..._
+![Startfoto](../../img/charityrace/2025-charityrace-startfoto.JPG "Startfoto")  
+[![Resultater](../../img/2025-charityrace-results.png "Resultater")](https://my.raceresult.com/351242/results)  
 
 ## Tusind tak for din støtte
 
