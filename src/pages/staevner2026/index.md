@@ -12,14 +12,15 @@ Der er nu åbnet for **ansøgning til ultralandsholdets stævner**.
 
 I 2026 rejser landsholdet til to stævner
 
-* **[VM 50 km](https://iau-ultramarathon.org/2025-iau-50-km-wc.html) i New Delhi i Indien d. 14 marts**.  
+* **[VM 50 km](https://iau-ultramarathon.org/2025-iau-50-km-wc.html) i New Delhi i Indien d. 14 marts**. Det er stævnet fra 2025, som blev udsat.  
 * **VM 100 km** - Forventet i Q4 2026, men der er endnu ingen løb annonceret.  
 
 Løbere har mulighed for at få en **wildcard** plads. Det vil sige at vi kan sende folk til mesterskab, som endnu ikke har kvalificeret sig.
 
 Det giver også mulighed for at atleter fra andre sportsgrene kan søge ind, som for eksempel Triathlon.
 
-Alle løbere, inklusiv landsholdsløbere, skal **ansøge om optagelse**.
+Alle løbere, inklusiv landsholdsløbere, skal **ansøge om optagelse**.  
+Løbere, der søgte VM 50 km i 2025 behøver ikke at søge igen.  
 
 ####  **Ansøgningsformular** for 2026 finder du **[her](https://forms.gle/yj3J83nyfiXYVNbP9)**
 
