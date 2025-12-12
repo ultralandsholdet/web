@@ -80,7 +80,7 @@ export const IndexPageTemplate = ({
 
                       <p className="subtitle">Jeg vil også gerne med ultralandsholdet til VM eller EM. Hvordan kommer jeg lige det?</p>
                       <p>Du kvalificerer dig til stævnet ved at løbe en kvalificerende tid/distance. 
-                        <br/>Derefter søger du om at komme med via <Link to="staevner2025">stævnesiden</Link>, hvor du også finder mere om kvalifikationskrav.
+                        <br/>Derefter søger du om at komme med via <Link to="staevner2026">stævnesiden</Link>, hvor du også finder mere om kvalifikationskrav.
                       </p>
 
                       <p className="subtitle">Hvornår afholdes VM og EM?</p>
