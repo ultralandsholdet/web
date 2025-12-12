@@ -119,7 +119,7 @@ Bemærk:
 * Løbere i det åbne løb kan nøjes med at tilmelde sig det åbne løb og behøver ikke at tilmelde sig WMA
 * Løbere i WMA skal enten være udtaget til ultralandsholdet eller være tilmeldt det åbne løb
 * Ønsker du også at løbe WMA skal du tilmelde dig WMA. Det koster ca. dkr 750 ekstra. Du tilmelder selv dig til WMA.
-* Løbere i WMA skal godkendes af DAF, så det kræver at du er [medlem af en DAF klub](https://connect.atletik.dk/Clubs) og at du enten fortæller i ansøgning til UltraLandsholdet/WMA at du måske vil løbe i WMA.  
+* Løbere i WMA skal godkendes af DAF, så det kræver at du er [medlem af en DAF klub](https://dansk-atletik.dk/vaer-med/find-en-klub/) og at du enten fortæller i ansøgning til UltraLandsholdet/WMA at du måske vil løbe i WMA.  
 Alternativt kontakter du DAF direkte ([Inger Marie](https://dansk-atletik.dk/forbundet/kontakt-daf/#stabsfunktioner)), så du kan blive godkendt.
 
 ##
