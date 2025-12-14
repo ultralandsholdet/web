@@ -38,7 +38,7 @@ De kan få en **wildcard** plads.
 For at få en **wildcard** plads skal man kunne påvise at man har et niveau tilsvarende kvalifikationskravene.  
 
 <a href="https://bit.ly/ul-kk" target="_blank" rel="noreferrer">
-<img src="../../img/staevner/KK-pub-2025.png" alt="Kvalifikationskrav DK" style="background-image:none;"/>
+<img src="../../img/staevner/KK-pub-2026.png" alt="Kvalifikationskrav DK" style="background-image:none;"/>
 </a>  
 <br>
 
