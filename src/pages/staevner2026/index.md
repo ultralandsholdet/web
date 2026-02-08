@@ -13,14 +13,13 @@ Der er nu åbnet for **ansøgning til ultralandsholdets stævner**.
 I 2026 rejser landsholdet til to stævner
 
 * **[VM 50 km](https://iau-ultramarathon.org/2025-iau-50-km-wc.html) i New Delhi i Indien d. 14 marts**. Det er stævnet fra 2025, som blev udsat.  
-* **VM 100 km** - Forventet i Q4 2026, men der er endnu ingen løb annonceret.  
+* **[VM 100 km](https://iau-ultramarathon.org/2026-iau-100-km-world-championships-announcement.html) i Spanien d. 20 September 2026**.  
 
 Løbere har mulighed for at få en **wildcard** plads. Det vil sige at vi kan sende folk til mesterskab, som endnu ikke har kvalificeret sig.
 
 Det giver også mulighed for at atleter fra andre sportsgrene kan søge ind, som for eksempel Triathlon.
 
 Alle løbere, inklusiv landsholdsløbere, skal **ansøge om optagelse**.  
-Løbere, der søgte VM 50 km i 2025 behøver ikke at søge igen.  
 
 ####  **Ansøgningsformular** for 2026 finder du **[her](https://forms.gle/yj3J83nyfiXYVNbP9)**
 
@@ -29,10 +28,11 @@ Løbere, der søgte VM 50 km i 2025 behøver ikke at søge igen.
 
 Kan du allerede klare kvalifikationskravene er du 95% sikret en plads til VM. 
 
-For at komme med til VM i 2025 skal du udtages. Der udtages både blandt kvalificerede og folk, 
+For at komme med til VM i 2026 skal du udtages. Der udtages både blandt kvalificerede og folk, 
 * som ikke fik løbet et kvalificerende løb eller 
 * som vil have comeback eller
-* som kommer fra andre sportsgrene. 
+* som kommer fra andre sportsgrene.  
+
 De kan få en **wildcard** plads.
 
 For at få en **wildcard** plads skal man kunne påvise at man har et niveau tilsvarende kvalifikationskravene.  
@@ -51,7 +51,7 @@ For at få en **wildcard** plads skal man kunne påvise at man har et niveau til
 ## Tidsfrister
 
 * VM 50 km. Ansøgningsfrist:  11 Januar 2026
-* VM 100 km. Ansøgningsfrist: 28 Juni 2026
+* VM 100 km. Ansøgningsfrist: 21 Juni 2026
 
 Løbere på landsholdet skal overholde gældende [doping regler](https://www.antidoping.dk/)
 
@@ -79,18 +79,19 @@ Løbere på landsholdet skal overholde gældende [doping regler](https://www.ant
 Skulle en løber ikke blive accepteret på landsholdet har stævner ofte åbne løb, som løberen kan deltage i:
 
 * 50 km åben: Der kan søges via [email til arrangøren](mailto:ultrarunning@nebsports.in). Forvent en pris omkring DKK 400.
+* 100 km åben: Først når GIS udgives (forventeligt i juni) har vi flere detaljer.  
 
 På landsholdet vil vi gøre så meget som muligt for at inkludere danske løbere fra åbne løb i landsholdteamet, så i kan bidrage til en samlet dansk teamånd. 
 Der er dog begrænsninger bl.a. i form af at depot for åbent løb ikke er delt med landsholdet.
 Ønsker i at deltage i åbent løb er i også velkomne i vores stævnegruppe og til at deltage i landsholdssamling.  
-Vi søger en `Kaptajn for 50 km åbent løb og WMA`, som er bindeled til landsholdet. Det er en frivillig ubetalt opgave for at fremme den danske teamånd.  
+Vi søger en `Kaptajn for åbent løb og WMA`, som er bindeled til landsholdet. Det er en frivillig ubetalt opgave for at fremme den danske teamånd.  
 
 Tilmelding og arrangering af deltagelse i åbne løb gøres af løberen selv som til alle andre åbne løb.
 
 Bemærk: 
 * Løbere i det åbne løb er ikke en del af VM og der er ingen travelgrants udbetalt til dem
 * Løbere i det åbne løb tilmelder sig selv til det åbne løb
-* Løbere i det ånbe løb tilskyndes at også at sende en ansøgning til landsholdet
+* Løbere i det åbne løb tilskyndes til også at sende en ansøgning til landsholdet
 
 ### Ultra Masters og WMA mesterskab
 
@@ -127,7 +128,7 @@ Alternativt kontakter du DAF direkte ([Inger Marie](https://dansk-atletik.dk/for
 
 Før VM arrangerer landsholdet en samling i DK, så Landsholdsdeltagere, WMA og åbentløbsdeltagere har mulighed for at bygge en landsholdsånd op forud for VM.
 Invitation sendes ud til løbere, der har søgt om deltagelse.
-I 2026 bliver samlingen arrangeret nogle uger inden VM 100 km.
+I 2026 bliver samlingen arrangeret nogle uger inden VM 100 km. Muligvis d. 29 August 2026.  
 
 ##
 <h2 id="landsholdstoj">Landsholdstøj</h2>
@@ -143,4 +144,4 @@ Bemærk:
 * Købt Landsholdstøj skal være købt hos Løberen.
 * Der må ikke være ekstra tryk på landsholdstøj, så som navn eller logo.
 
-_Denne side er oprettet primo December 2025_
+_Denne side er opdateret primo Februar 2026_
