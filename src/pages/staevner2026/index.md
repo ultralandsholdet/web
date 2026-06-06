@@ -13,7 +13,7 @@ Der er nu åbnet for **ansøgning til ultralandsholdets stævner**.
 I 2026 rejser landsholdet til to stævner
 
 * **[VM 50 km](https://iau-ultramarathon.org/2025-iau-50-km-wc.html) i New Delhi i Indien d. 14 marts**. Det er stævnet fra 2025, som blev udsat.  
-* **[VM 100 km](https://iau-ultramarathon.org/2026-iau-100-km-world-championships-announcement.html) i Spanien d. 20 September 2026**.  
+* **[VM 100 km](https://iau-ultramarathon.org/2026-iau-100km-wc.html) i Spanien d. 20 September 2026**.  
 
 Løbere har mulighed for at få en **wildcard** plads. Det vil sige at vi kan sende folk til mesterskab, som endnu ikke har kvalificeret sig.
 
@@ -69,7 +69,8 @@ Løbere på landsholdet skal overholde gældende [doping regler](https://www.ant
     * Køber rejse til stævne
 * Landsholdet:
     * Tilmelder hold til stævne(r)
-    * Slutafregner med DAF og løberne - inklusiv tilbagebetaling af travelgrants til løberne
+    * Slutafregner med DAF og løberne - inklusiv tilbagebetaling af travelgrants til løberne.
+      * Fra og med VM100 2026 giver IAU [ikke længere travelgrants](https://iau-ultramarathon.org/iau-financial-framework-update-on-travel-grant.html). Grunden til det er at det er svært at tiltrække arrangører med så høje udgifter. Arrangøren giver dog stadig "gratis nætter".
 
 <img src="../../img/staevner/vm-wma-aabentlob.drawio.svg" alt="WMA og Åbent løb"/>
 
@@ -79,7 +80,7 @@ Løbere på landsholdet skal overholde gældende [doping regler](https://www.ant
 Skulle en løber ikke blive accepteret på landsholdet har stævner ofte åbne løb, som løberen kan deltage i:
 
 * 50 km åben: Der kan søges via [email til arrangøren](mailto:ultrarunning@nebsports.in). Forvent en pris omkring DKK 400.
-* 100 km åben: Først når GIS udgives (forventeligt i juni) har vi flere detaljer.  
+* 100 km åben: Det åbne løbe er kun åbent for deltagere i WMA. Efter tilmelding til WMA send en email til arrangøren for mere info.  
 
 På landsholdet vil vi gøre så meget som muligt for at inkludere danske løbere fra åbne løb i landsholdteamet, så i kan bidrage til en samlet dansk teamånd. 
 Der er dog begrænsninger bl.a. i form af at depot for åbent løb ikke er delt med landsholdet.
@@ -98,6 +99,7 @@ Bemærk:
 Er man tilmeldt stævne enten som udtaget til Ultralandsholdet eller via det åbne løb har man også mulighed for at deltage i **[WMA](https://world-masters-athletics.org/championships/)** mesterskab - aldersklasse verdensmesterskabet.  
 
 * [50 km WMA](https://world-masters-athletics.org/championships/2025-iau-50k-world-championship/)
+* [100 km WMA](https://world-masters-athletics.org/championships/2026-wma-100km-championships/). Pris: Eur 60 excl gebyr. Deadline for tilmelding incl. betaling: 15 August 2026.
 
 Alle i det åbne løb er velkomne til også at deltage i WMA, hvis i er gamle nok (35+).
 
@@ -144,4 +146,4 @@ Bemærk:
 * Købt Landsholdstøj skal være købt hos Løberen.
 * Der må ikke være ekstra tryk på landsholdstøj, så som navn eller logo.
 
-_Denne side er opdateret primo Februar 2026_
+_Denne side er opdateret primo Juni 2026_
