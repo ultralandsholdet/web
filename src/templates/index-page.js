@@ -33,12 +33,15 @@ export const IndexPageTemplate = ({
                   <div className="tile">
                     <div>
                       <h1 className="title">{mainpitch.title}</h1>
-                      <p>Ultralandsholdet er et af tre danske ultralandshold - landshold i discipliner længere end marathon.</p>
+                      <p>Ultralandsholdet er et af fire danske ultralandshold - landshold i discipliner længere end marathon.</p>
                       <p>
                         <ul>
                           <li><Link to="https://www.facebook.com/ultralandsholdet"><b>Ultralandsholdet</b></Link>
                             <p>
-                              Deltager i <Link to="https://iau-ultramarathon.org/iau-championships">IAU</Link> mesterskaber - 50 km, 100 km og 24 timer under <Link to="https://dansk-atletik.dk/atleter/ultraloeb/">DAF</Link>. Landstræner: <Link to="https://www.facebook.com/soren.raarup">Søren Raarup</Link>
+                              Deltager i <Link to="https://iau-ultramarathon.org/iau-championships">IAU</Link> mesterskaber - 50 km, 100 km og 24 timer under <Link to="https://dansk-atletik.dk/atleter/ultraloeb/">DAF</Link>. 
+                              <br/>Landstræner 50 km, 100 km: <Link to="https://www.facebook.com/bjarni.romjensen">Bjarni Rom-Jensen</Link>
+                              <br/>Landstræner 24 timer: <Link to="https://www.facebook.com/thomas.kjerstein">Thomas Kjerstein</Link>
+                              <br/>Koordinator: <Link to="https://www.facebook.com/peter.torjussen">Peter Torjussen</Link>
                             </p> 
                           </li>
                         </ul>
@@ -64,7 +67,7 @@ export const IndexPageTemplate = ({
                           </li>
                           <li><Link to="https://www.facebook.com/traillandsholdet"><b>Traillandsholdet</b></Link>
                             <p>
-                              Deltager i <Link to="https://iau-ultramarathon.org/d-trail.html">IAU Trail- og bjerg</Link> mesterskaber (varetaget af WMRA og iTra) under <Link to="https://dansk-atletik.dk/atleter/trail-og-bjergloeb/">DAF</Link>. Landstræner: <Link to="https://www.facebook.com/sr.lobecoach">Søren Rasmussen</Link>
+                              Deltager i <Link to="https://iau-ultramarathon.org/d-trail.html">IAU Trail- og bjerg</Link> mesterskaber (varetaget af WMRA og iTra) under <Link to="https://dansk-atletik.dk/atleter/trail-og-bjergloeb/">DAF</Link>. Landstræner: <Link to="mailto:bh122c@gmail.com">Bashir Hussein</Link>
                             </p> 
                           </li>
                         </ul>
@@ -148,18 +151,6 @@ export const IndexPageTemplate = ({
                   </div>
 
                   <p></p> 
-                  <div className="tile">
-                    <div>
-                      <p className="subtitle">Hvorfor er 48 timer og 6 dage ikke under IAU?</p>
-                      <p>
-                        Det er nok bare et spørgsmål om efterspørgsel. Gomu gør arbejdet inden da. <br></br>
-                        Måske delegerer IAU så arbejdet til Gomu.<br></br>
-                        Hvis det sker at IAU overtager, så kommer diciplinerne også under DAF, da IAU er under <Link to="https://worldathletics.org/">WA</Link>, som varetages af DAF i Danmark</p>
-                      <p></p>
-                      <p>Fusioneres Multidagslandsholdet så med Ultralandsholdet?</p>
-                      <p>Næppe - det er arbejdsbyrden for stor til, men det bliver også en del af (eller delegeres af) DAF på samme måde som Trail blev det.</p>
-                    </div>
-                  </div>
                   <div className="tile">
                     <div>
                       <p className="subtitle">Hvorfor er BYU ikke under IAU?</p>
